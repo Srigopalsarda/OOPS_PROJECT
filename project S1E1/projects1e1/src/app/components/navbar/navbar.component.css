@@ -1,0 +1,15 @@
+.navbar {
+    background: rgb(70, 69, 69);
+
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+.cust {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
